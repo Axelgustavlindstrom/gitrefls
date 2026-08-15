@@ -31,3 +31,6 @@ testpaths = ["tests"]
 [tool.ruff]
 line-length = 100
 target-version = "py311"
+
+[project.urls]
+Repository = "https://github.com/Axelgustavlindstrom/gitrefls"
