@@ -8,3 +8,16 @@ build/
 .ruff_cache/
 .mypy_cache/
 .venv/
+.env
+.env.local
+.python-version
+*.log
+tmp/
+out/
+coverage/
+htmlcov/
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
